@@ -15,7 +15,6 @@ Web Technologies: Explored the basics of front-end and back-end web development 
 
 Problem Solving: Practiced logical and analytical thinking to approach real-world challenges.
 
-
 # 🤝 Professional Skills
 
 
@@ -25,7 +24,7 @@ Team Collaboration: Worked on team-based assignments to enhance coordination and
 
 Time Management: Gained exposure to deadline-driven work through mini-projects and tasks.
 
-#🛠️ Hands-On Projects
+# 🛠️ Hands-On Projects
 
 
 Engaged in capstone and mini-projects simulating real-time business requirements.
