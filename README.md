@@ -14,3 +14,12 @@ Database Concepts: Learned the fundamentals of databases, data models, queries, 
 Web Technologies: Explored the basics of front-end and back-end web development along with service architecture.
 
 Problem Solving: Practiced logical and analytical thinking to approach real-world challenges.
+
+# 🤝 Professional Skills
+
+
+Communication: Improved written and verbal communication through regular presentations and team interactions.
+
+Team Collaboration: Worked on team-based assignments to enhance coordination and collaborative problem-solving.
+
+Time Management: Gained exposure to deadline-driven work through mini-projects and tasks.
