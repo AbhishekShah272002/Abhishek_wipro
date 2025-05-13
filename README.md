@@ -15,6 +15,7 @@ Web Technologies: Explored the basics of front-end and back-end web development 
 
 Problem Solving: Practiced logical and analytical thinking to approach real-world challenges.
 
+
 # 🤝 Professional Skills
 
 
