@@ -23,3 +23,10 @@ Communication: Improved written and verbal communication through regular present
 Team Collaboration: Worked on team-based assignments to enhance coordination and collaborative problem-solving.
 
 Time Management: Gained exposure to deadline-driven work through mini-projects and tasks.
+
+#🛠️ Hands-On Projects
+
+
+Engaged in capstone and mini-projects simulating real-time business requirements.
+
+Applied all learned concepts in an integrated environment to build scalable solutions.
