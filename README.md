@@ -22,7 +22,7 @@ Communication: Improved written and verbal communication through regular present
 
 Team Collaboration: Worked on team-based assignments to enhance coordination and collaborative problem-solving.
 
-Time Management: Gained exposure to deadline-driven work through mini-projects and tasks.
+Time Management: Gained exposure to deadline-driven work through mini-projects and tasks. 
 
 # 🛠️ Hands-On Projects
 
