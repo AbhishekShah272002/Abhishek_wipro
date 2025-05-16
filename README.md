@@ -1,6 +1,6 @@
 
 # 🏢 Wipro Training Program Overview
-
+ 
 
 As part of my onboarding at Wipro, I underwent an intensive and structured corporate training program aimed at developing both technical and soft skills essential for the IT industry. Below are the key highlights:
 
