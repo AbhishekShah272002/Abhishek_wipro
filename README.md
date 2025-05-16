@@ -37,4 +37,3 @@ Applied all learned concepts in an integrated environment to build scalable solu
 The training prepared me to work effectively in dynamic, client-focused environments by developing a holistic understanding of business and technology.
 
 
-
